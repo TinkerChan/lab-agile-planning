@@ -1,5 +1,5 @@
 ---
-name: Custom issue User Storytemplate
+name: User Story
 about: This template is for creating user stories
 title: ''
 labels: ''
